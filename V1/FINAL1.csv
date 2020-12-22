@@ -8,8 +8,8 @@ Abacavir/Lamivudine  Mylan Pbarma,30 mg tablets
 Abacavir/Lamivudine  Sandoz,15 mg tablets
 Abacavir/Lamivudine Vale,10 mg tablets
 Abizol,l g powder for solution  for injection
-Abizol,"0,25 mg/g ointment"
 Abizol,"0,25 mg/g cream"
+Abizol,"0,25 mg/g ointment"
 Abricef,"0,25 mg/g + 5 mg/g cream"
 Abricort,"0,25 mg/g + 5 mg/g  ointment"
 Abricort,150 mg gastro -  resistant tablets
@@ -736,8 +736,8 @@ Atorvastatin AL,40 mg film - coated  tablets
 Atorvastatin  Aurobindo,10 mg film - coated  tablets
 Atorvastatin  Aurobindo,20 mg film - coated  tablets
 Atorvastatin  Aurobindo,40 mg film - coated  tablets
-Atorvastatin  Billev,20 mg film - coated tablets
 Atorvastatin  Billev,10 mg film - coated tablets
+Atorvastatin  Billev,20 mg film - coated tablets
 Atorvastatin  Billev,10 mg film - coated  tablets
 Atorvastatin  Ecopharm,20 mg film - coated  tablets
 Atorvastatin  Ecopharm,80 mg film - coated  tablets
@@ -2084,8 +2084,8 @@ Clopixol-Acuphase,100 mg vaginal tablets
 Cloroden,1 % cream
 Clostilbegyt,10 mg /g cream
 Clotrimazol,cream 10 mg/g - 25 g; 50  g
-Clotrimazol,"0,05% ointment"
-Clotrimazol  ABR,"0,05% cream"
+Clotrimazol,"0,05% cream"
+Clotrimazol  ABR,"0,05% ointment"
 Clotrimazol  Hexal,25 mg tablets
 Clovate,100 mg tablets
 Clovate,200 mg tablets
@@ -3123,8 +3123,8 @@ Engystol,5 mg tablets
 Enhancin,10 mg tablets
 Enhancin,20 mg tablets
 Enhancin,"50 mcg/0,5 mg/g  cutaneous foam"
-Enhancin,"0,5 mg film - coated tablets"
-Enpril,1 mg film - coated tablets
+Enhancin,1 mg film - coated tablets
+Enpril,"0,5 mg film - coated tablets"
 Enpril,"0,5 mg film - coated tablets"
 Enpril,1 mg film - coated tablets
 Enstilar,"0,5 mg film - coated  tablets"
@@ -3534,8 +3534,8 @@ Febustad,80 mg film-coated  tablets
 Febuxostat  Actavis,120 mg film-coated  tablets
 Febuxostat  Actavis,120 mg film-coated  tablets
 Febuxostat  Pharmascience,80 mg fllm-coated  tablets
-Febuxostat  Pharmascience,25 U/ml powder and  solvent for solution for infusion
-Febuxostat  Universal Farma,50 U/ml powder and  solvent for solution for infusion
+Febuxostat  Pharmascience,50 U/ml powder and  solvent for solution for infusion
+Febuxostat  Universal Farma,25 U/ml powder and  solvent for solution for infusion
 Febuxostat  Universal Farma,1000 IU powder and  solvent for solution for injection
 Febuxostat Zentiva,500 IU powder and  solvent for solution for injection
 Febuxostat Zentiva,10 mg prolonged -  release tablets
@@ -3613,11 +3613,12 @@ Fervex  cold and flu,"0,2 % solution for  injection"
 Fevarin,"0,5 % solution for  injection"
 Fevarin,1 % solution for  injection
 Fibranor,3 % solution for  injection
-Fibranor,15 g/100 g gel
+Fibranor,1 g powder and solvet  for injection/infusion
+Fibrovein,15 g/100 g gel
 Fibrovein,5 mg film - coated tablets
 Fibrovein,4 mg/25 mg ointment
 Fibrovein,1 mg film - coated  tablets
-Fibrovein,5 mg film - coated tablets
+Fibryga,5 mg film - coated tablets
 Finacea  Gel,"0,5 mg hard capsules"
 Finacon,"0,5 mg hard capsules"
 Finalgon,200 mg tablets
@@ -3697,7 +3698,7 @@ FLUDREX  MAX HERBAL Hot Drink,gran - 100 mg x 10; x  20; x 30
 FLUDREX TIMI Hot Drink for Kids,gran - 200 mg x 10; x  20; x 30
 Fluimucil,tabl. eff. 600 mg x 10;  x 20; x 30
 Fluimucil,"0,1 mg/ml solution for  injection/concetrate for solution for infusion"
-Fluimucil,caps. 5 mg x 20
+Fluimucil,5 mg hard capsules
 Fluimucil  100,10 mg vaginal tablets
 Fluimucil  200,500 mg/5 ml solution for  injection
 Fluimucil  600,500 mg/5 ml solution for  injectection
@@ -5042,14 +5043,15 @@ Levothyroxine  Accord,3  mg tablets
 Levothyroxine  Accord,2 mg tablets
 Levothyroxine  Accord,4 mg tablets
 Levothyroxine  Accord,8 mg tablets
+Levoxa,"1,5 mg tablets"
 Levoxa,100 mg tablets
 Levoxa,150 mg film - coated  tablets
 Levoxa,42 mg/ml intrauterine  gel
-Levoxa,4 % cream
-Lexotan,"4,6 mg /dose cutaneous  spray, solution"
+Lexotan,4 % cream
+Lextril,"4,6 mg /dose cutaneous  spray, solution"
 Lextril,5 % ointment
 Lextril,20 mg/ml solution for  injection
-Lextril,10 mg/ml solution for  injection
+Liberizin,10 mg/ml solution for  injection
 Libexin,5 mg/ml solution for  injection
 Licobondrat,10 mg/ml solution for  injection
 Lidbree,20 mg/ml solution for  injection
@@ -5451,17 +5453,17 @@ Melox,10 mg film - coated  tablets
 Meloxicam - Ratiopharm,20 mg film - coated  tablets
 Meloxicam - Ratiopharm,10 mg film - coated  tablets
 Meloxicam  DS,10 mg film - coated  tablets
-Melphalan  Pharmexon,10 mg orodispersible  tablets
-Memantine  Chanelle Medical,20 mg orodispersible  tablets
-Memantine Cipla,
+Melphalan  Pharmexon,
+Memantine  Chanelle Medical,10 mg orodispersible  tablets
+Memantine Cipla,20 mg orodispersible  tablets
 Memantine Cipla,10 mg film - coated  tablets
 Memantine  Glenmark,40 mg film - coated  tablets
 Memantine  Glenmark,2400 mg powder for oral  solution
 Memantine  Sopharma,1200 mg powder for oral  solution
 Memantine  Stada,2 mg tablets
-Memantine  Teva,powder and solvent for  suspension for injection
+,powder and solvent for  suspension for injection
 Memantine  Teva,100 mg/25 mg tablets
-,200 mg/50 mg tablets
+Memantine  Teva,200 mg/50 mg tablets
 Memigmin,75 IU/75 IU powder and  solvent for solution for injection
 Memoplant,1000 mg powder for  solution for onjection/infusion
 Memotropil,1 g powder for solution  for injection/infusion
@@ -6273,8 +6275,8 @@ Nystatin ABR,100 mg/ml solution for  infusion
 Nystatin  Actavis,50 mg/ml solution for  infusion
 Nystatin  Actavis,1000 IU powder and  solvent for solution for injection
 Nystatin  Actavis,500 IU powder and  solvent for solution for injection
-,500 IU powder and  solvent for solution for injection
-"Одобрени КХП на лекарствени продукти, разрешени за употреба в Р.  България",1000 IU powder and  solvent for solution for injection
+,1000 IU powder and  solvent for solution for injection
+"Одобрени КХП на лекарствени продукти, разрешени за употреба в Р.  България",500 IU powder and  solvent for solution for injection
 ,45 - 70 mg/ml solution  for infusion
 търговско  наименование:,500 IU powder and  solvent for solution for injection
 ,1000 IU powder and  solvent for solution for injection
@@ -6522,16 +6524,17 @@ Ospexin,tablets
 Ossica,"0,25 mg micrograms capsules,  soft"
 Ossica,tabl. film 800 mg x 40
 Ossica,830 mg film - coated  tablets
-Ossica,tabl. eff. x 20
-Ossopan  200,5 mg film - coated  tablets
-Ostac,drops ear 20% - 10 g
+Ossica,20 micrograms/80  microliterssolution for injection in pre-filled pen
+Ossopan  200,tabl. eff. x 20
+Ostac,5 mg film - coated  tablets
+Osteo  D,drops ear 20% - 10 g
 Osteo  D,"4 g/100 g + 1 g/100 g  ear drops, solution"
-Osteo  D,"4g/100g + lg/100g ear  drops, solution"
-Osteobios,"40 mg/g +10 mg/g ear  drops, solution"
-Osteocynesine,"0,1% nasal drops,  solution"
-Osteod,"0,05% nasal drops,  solution"
+Osteobios,"4g/100g + lg/100g ear  drops, solution"
+Osteocynesine,"40 mg/g +10 mg/g ear  drops, solution"
+Osteod,"0,1% nasal drops,  solution"
+Osteogenon,"0,05% nasal drops,  solution"
 Osteogenon,"0,5 mg/ml + 0,6 mg/ml  nasal spray, solution"
-Osteogenon,"0,5 mg/ml + 0,6 mg/ml  nasal spray, solution"
+Osteoteri,"0,5 mg/ml + 0,6 mg/ml  nasal spray, solution"
 Osteovital,"0,1% nasal spray,  solution"
 Otaza,"1 mg/ml + 50 mg/ml nasal  spray, solution"
 Otinum,"0,5 mg pessaries"
@@ -6965,18 +6968,20 @@ Planitec,60 mg film - coated  tablets
 Plaquex,"solution for injection  0,5 ml"
 PlaquEx  Combi,2 mg /ml solution for  infusion
 Plasbumin  20,23 solution for  injection in pre - filled syrige
-"Plasma-Lyte 148 (pH 7,4)","23,12 mg/g + 0,58 mg/g  cutaneous spray, suspension"
-Platel,80 mg/g medicated nail  lacquer
-Plendil,"oral drops, suspension"
-Plendil,solution for injection
-Plenvu,20 mg film -coated tablets
-Plofed,10 mg film - coated  tablets
-Plofed  1%,"5 mg/pump actuation,  oral solution"
-Plotis,"10 mg/10 mg capsules,  hard"
-Plotis,"10 mg/5 mg capsules,  hard"
-Pneumo  23,"5 mg/10 mg capsules,  hard"
-Pneumolid,"5 mg/5 mg capsules, hard"
-Pneumovax 23,90 mg film - coated tablets
+"Plasma-Lyte 148 (pH 7,4)","2,5 mg film-coated  tablets"
+Platel,5 mg film-coated tablets
+Plendil,"23,12 mg/g + 0,58 mg/g  cutaneous spray, suspension"
+Plendil,80 mg/g medicated nail  lacquer
+Plenvu,"oral drops, suspension"
+Plofed,solution for injection
+Plofed  1%,20 mg film -coated tablets
+Plotis,10 mg film - coated  tablets
+Plotis,"5 mg/pump actuation,  oral solution"
+Pneumo  23,"10 mg/10 mg capsules,  hard"
+Pneumolid,"10 mg/5 mg capsules,  hard"
+Pneumovax 23,"5 mg/10 mg capsules,  hard"
+Polapix,"5 mg/5 mg capsules, hard"
+Polapix,90 mg film - coated tablets
 Polcoderm  TC,60 mg film - coated tablets
 Polinail,"8,0 - 175 GBq  radionuclide generator"
 Polio  Sabin (oral),35 000 IU vaginal caps.  Soft
@@ -6988,18 +6993,19 @@ Polpram,4 mg/10 mg tablets
 Polpram,8 mg/5 mg tablets
 Polpram,8 mg/10 mg tablets
 Polpram,750 micrograms tablets
+Polsar,1500 micrograms tablet
 Polsar,"1,5 mg/ml + 50 mg/ml  solution for infusion"
-Polsar,3 mg/ml + 50 mg/ml  solution for infusion
-Poltechnet,65 mg tablets
+Poltechnet,3 mg/ml + 50 mg/ml  solution for infusion
+Polygynax,65 mg tablets
 Polygynax,"2% eye drops, solution"
-Polygynax,25 mg chewable tablets
+Pontea,25 mg chewable tablets
 Pontea,100 mg chewable tablets
-Pontea,50 mg chewable tablets
+Pontex,50 mg chewable tablets
 Pontex,"50 micrograms/g + 0,5  mg/g ointmen"
 Pontex,"5 TU/0,1 ml solution for  injection"
 Pontex,200 mg hard capsules
-Pontex,100 mg hard capsules
-Postinor-Duo,150 mg hard capsules
+Postinor-Duo,100 mg hard capsules
+Postinor-uno,150 mg hard capsules
 Potassium  Chloride + Glucose Kabi,25 mg hard capsules
 Potassium  Chloride + Glucose Kabi,300 mg hard capsules
 Potassium  Iodide GL. Pharma,50 mg hard capsules
@@ -7333,8 +7339,8 @@ Ralago,10 mg tablets
 Raloxa,5 mg tablets
 Rameam,"2,5 mg/12,5 mg tablets"
 Rameam,5 mg/25 mg tablets
-Rameam,10 mg tablets
 Rameam,5  mg tablets
+Rameam,10 mg tablets
 Ramigamma,"10 mg/5 mg capsules,  hard"
 Ramigamma,"10 mg/10 mg capsules,  hard"
 RamiHEXAL,"2,5 mg/5 mg capsules,  hard"
@@ -8112,20 +8118,21 @@ Somazina,40 mg powder for  solution for infusion
 Somazina,200 mg film - coated  tablets
 Somefar,200 mg film - coated  tablets
 Somefar,200 mg film - coated  tablets
-Soolantra,200 mg film - coated tablets
+Soolantra,200 mg film-coated  tablets
 Sophaflu,200 mg film - coated tablets
+Sophamet,200 mg film - coated tablets
 Sophamet,200 mg film - coated  tablets
 Sophamet,320 mg prolonged -  release tablets
-Sophamet,15 g powder for  oral/rectal suspension in sachet
-Sophanax,10 mg film - coated  tablets
-Sophazolon,20 mg film - coated tablets
+Sophanax,15 g powder for  oral/rectal suspension in sachet
+Sophazolon,10 mg film - coated  tablets
+Sophtensif,20 mg film - coated tablets
 Sophtensif,40 mg film - coated tablets
-Sophtensif,80 mg film - coated tablets
+Sopral,80 mg film - coated tablets
 Sopral,5 mg chewable tablets
-Sopral,40 mg chewable tablets
-Sorafenib  Alvogen,10 mg chewable tablets
-Sorafenib  G.L.,20 mg chewable tablets
-Sorafenib  Mylan,160 mg tablets
+Sorafenib  Alvogen,40 mg chewable tablets
+Sorafenib  G.L.,10 mg chewable tablets
+Sorafenib  Mylan,20 mg chewable tablets
+Sorafenib  Pharmascience,160 mg tablets
 Sorafenib Sandoz,80  mg tablets
 Sorafenib  Teva,tabl. 160 mg x 20; x 50;  x 100
 Sorafenib  Zentiva,tabl. 80 mg x 20; x 50;  x 100
@@ -8828,8 +8835,8 @@ Torendo,20 mg film - coated  tablets
 Torendo,40 mg film - coated  tablets
 Torendo,40 mg film - coated  tablets
 Torendo,80 mg film - coated  tablets
-Torendo Q-Tab,10 mg film - coated tablets
 Torendo Q-Tab,20 mg film - coated  tablets
+Torendo Q-Tab,10 mg film - coated tablets
 Torendo Q-Tab,80 film-coated tablets
 Tores,10 mg film - coated  tablets blister
 Tores,20 mg film - coated  tablets blister
@@ -8907,10 +8914,10 @@ Tresuvi,200 mg tablets
 Tresuvi,10 mg/ 2 ml solution for  injection
 Tresuvi,20 mg/ 4 ml solution for  injection
 Tri - Regol,5 mg tablets
-Triampur  compositum,60 mg/ml oral suspension
-Tribestan,600 mg film-coated  tablets
-Tributin,300 mg film-coated  tablets
-Trichomonacid,150 mg film-coated  tablets
+Triampur  compositum,600 mg film-coated  tablets
+Tribestan,300 mg film-coated  tablets
+Tributin,150 mg film-coated  tablets
+Trichomonacid,60 mg/ml oral suspension
 Trichomonacid,50 mg/ml solutio for  injection
 Tridepos,20 mg film - coated  tablets
 Triderm,35 mg modified - release  tablets
@@ -9320,8 +9327,8 @@ Vesimed,10 mg film - coated tablets
 Vesisol,20 mg film - coated tablets
 Vesisol,100 mg dispersible  tablets
 Vesomni,"0,25%/0,025% nasal  spray, solution"
-Vessel  Due F,"0,25 %/0,025% nasal  drops, solution"
 Vessel  Due F,"0,25%/0,025% nasal gel"
+Vessel  Due F,"0,25 %/0,025% nasal  drops, solution"
 Vestibo,245 mg film - coated  tablets
 Vestibo,
 Vestibo,5 mg/ml solution for  infusion
@@ -9792,10 +9799,10 @@ Zornichka,"60 mg capsules, hard"
 Zostatin,"40 mg capsules, hard"
 Zostatin,"80 mg capsules, hard"
 Zostatin,10 mg film - coated  tablets
-Zovirax,"10  mg/ml oral drops, solution"
+Zovirax,"10 mg/ml oral drops,  solution"
 Zovirax,5 mg/120 mg prolonged -  release tablets
-Zovirax,2 mg/ml  solution for infusion
-Zovirax  Duo,600 mg  film - coated tablets
+Zovirax,2 mg/ml solution for  infusion
+Zovirax  Duo,600 mg film - coated  tablets
 Zoxon,
 Zoxon,
 Zulbex,
